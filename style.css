@@ -6,3 +6,8 @@
 .nav-link {
   color: black;
 }
+
+#hero-image {
+  height: 75%;
+  width: 75%;
+}
